@@ -1,0 +1,11 @@
+.env
+config.json
+cookies/
+*.log
+*.pid
+__pycache__/
+.venv/
+node_modules/
+.DS_Store
+!.env.example
+!config.example.json
